@@ -5,4 +5,4 @@
 > docker run -d -p 8080:80 --name hrapp dockerhrapp  
 
 ## to open appliction  
->localhost:8080
+>localhost:8080  
